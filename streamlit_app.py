@@ -78,9 +78,9 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://i.ibb.co/QcvCJPZ/3.jpg?text=Label1_Image1",
+            "https://i.ibb.co/GTgtDP8/4.jpg?text=Label1_Image2",
+            "https://i.ibb.co/f2BtvLv/1.jpg?text=Label1_Image3"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
@@ -95,9 +95,9 @@ content_data = {
     },
     labels[1]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
-            "https://via.placeholder.com/300?text=Label2_Image2",
-            "https://via.placeholder.com/300?text=Label2_Image3"
+            "https://i.ibb.co/W2BTtP8/images.jpg?text=Label2_Image1",
+            "https://i.ibb.co/9Zng2sd/6.jpg?text=Label2_Image2",
+            "https://i.ibb.co/f2BtvLv/1.jpg?text=Label2_Image3"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
@@ -112,9 +112,9 @@ content_data = {
     },
     labels[2]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
+            "https://i.ibb.co/FD9S4Hb/2.jpg?text=Label3_Image1",
+            "https://i.ibb.co/3d59cn0/5.jpg?text=Label3_Image2",
+            "https://i.ibb.co/f2BtvLv/1.jpg?text=Label3_Image3"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",

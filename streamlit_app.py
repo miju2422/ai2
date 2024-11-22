@@ -44,7 +44,7 @@ def display_right_content(labels):
     # 1st Row - Images based on labels
     for i, label in enumerate(labels[:3]):
         with cols[i]:
-            st.image(f"https://i.ibb.co/MVgmsKs/image.jpg?text={label}", caption=f"이미지: {label}", use_column_width=True)
+            st.image(f"https://i.ibb.co/f2BtvLv/1.jpg?text={label}", caption=f"이미지: {label}", use_column_width=True)
 
     # 2nd Row - YouTube Videos based on labels
     for i, label in enumerate(labels[:3]):
@@ -55,7 +55,7 @@ def display_right_content(labels):
     # 3rd Row - Text based on labels
     for i, label in enumerate(labels[:3]):
         with cols[i]:
-            st.write(f"{label} 관련 텍스트 내용입니다.")
+            st.write(f"{label} 그냥 고양이 그 자체인 학교.")
 
 # 모델 로드
 st.write("모델을 로드 중입니다. 잠시만 기다려주세요...")
